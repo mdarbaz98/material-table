@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/material-table/static/js/main.d4f5ce88.chunk.js",
+    "main.js.map": "/material-table/static/js/main.d4f5ce88.chunk.js.map",
+    "runtime-main.js": "/material-table/static/js/runtime-main.e007d685.js",
+    "runtime-main.js.map": "/material-table/static/js/runtime-main.e007d685.js.map",
+    "static/js/2.1ed97191.chunk.js": "/material-table/static/js/2.1ed97191.chunk.js",
+    "static/js/2.1ed97191.chunk.js.map": "/material-table/static/js/2.1ed97191.chunk.js.map",
+    "static/js/3.d544ecd3.chunk.js": "/material-table/static/js/3.d544ecd3.chunk.js",
+    "static/js/3.d544ecd3.chunk.js.map": "/material-table/static/js/3.d544ecd3.chunk.js.map",
+    "static/js/4.a46d0920.chunk.js": "/material-table/static/js/4.a46d0920.chunk.js",
+    "static/js/4.a46d0920.chunk.js.map": "/material-table/static/js/4.a46d0920.chunk.js.map",
+    "static/js/5.32e59323.chunk.js": "/material-table/static/js/5.32e59323.chunk.js",
+    "static/js/5.32e59323.chunk.js.map": "/material-table/static/js/5.32e59323.chunk.js.map",
+    "index.html": "/material-table/index.html",
+    "static/js/2.1ed97191.chunk.js.LICENSE.txt": "/material-table/static/js/2.1ed97191.chunk.js.LICENSE.txt",
+    "static/js/3.d544ecd3.chunk.js.LICENSE.txt": "/material-table/static/js/3.d544ecd3.chunk.js.LICENSE.txt",
+    "static/js/4.a46d0920.chunk.js.LICENSE.txt": "/material-table/static/js/4.a46d0920.chunk.js.LICENSE.txt",
+    "static/js/5.32e59323.chunk.js.LICENSE.txt": "/material-table/static/js/5.32e59323.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e007d685.js",
+    "static/js/2.1ed97191.chunk.js",
+    "static/js/main.d4f5ce88.chunk.js"
+  ]
+}
